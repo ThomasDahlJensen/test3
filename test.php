@@ -1,2 +1,2 @@
 <?php
-echo "test.php";
+echo "test.php vi prøver igen";
